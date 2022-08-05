@@ -1,7 +1,7 @@
 
 ![GitHub Header](github-header.jpg "Header")
 
-<h1 align="center">Tools</h1>
+<h1 align="center">Tools of the Trade</h1>
 <p align="center">
 <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A"/>
 <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=white"/>
