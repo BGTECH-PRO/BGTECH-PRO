@@ -35,6 +35,7 @@
 <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A"/>
 <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3"/>
+<img src="http://img.shields.io/badge/-Python-0073AA?style=flat&logo=python&logoColor=white"/>
 </p>
 
 <h2 align="center">Editors</h2>
@@ -44,7 +45,6 @@
 </p>
 
 <!-- Must add:
-<img src="https://img.shields.io/badge/?style=flat&logo=Vim&logoColor=white-Vim-success"/>
 Framework section
 python
 django
