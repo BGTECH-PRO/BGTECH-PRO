@@ -40,11 +40,11 @@
 <h2 align="center">Editors</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/?style=flat&logo=Vim&logoColor=white-Vim-success"/>
 </p>
 
 <!-- Must add:
-<img src="https://img.shields.io/badge/-Vim-success"/>
+<img src="https://img.shields.io/badge/?style=flat&logo=Vim&logoColor=white-Vim-success"/>
 Framework section
 python
 django
