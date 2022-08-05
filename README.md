@@ -36,10 +36,12 @@
 <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3"/>
 <img src="http://img.shields.io/badge/-Python-0073AA?style=flat&logo=python&logoColor=white"/>
+
 </p>
 
 <h2 align="center">Editors</h2>
 <p align="center">
+<img src="http://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"/>
 
 </p>
