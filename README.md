@@ -40,3 +40,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/boyd-gordon-27071a247/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BesZpyVJhTg2x6%2B3%2FK1S2fQ%3D%3D"><img src="http://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedIn&logoColor=white"/></a>
 </p>
+<h2 align="center">Hits</h2>
+<p align="center">
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python "hits")
+</p>
