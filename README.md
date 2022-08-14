@@ -12,7 +12,7 @@
 <img src="http://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white"/>
 <img src="http://img.shields.io/badge/-MySQL-007599?style=flat&logo=MySQL&logoColor=white"/>
-<img src="http://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite&logoColor=white"/>
+<img src="https://img.shields.io/badge/phpMyAdmin-6C78AF.svg?style=flat&logo=phpMyAdmin&logoColor=%2361DAFB"/>
 <img src="http://img.shields.io/badge/-WordPress-0073AA?style=flat&logo=wordpress&logoColor=white"/>
 <img src="http://img.shields.io/badge/-Jekyll-CC0000?style=flat&logo=Jekyll&logoColor=white"/>
 <img src="http://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
