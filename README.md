@@ -25,6 +25,7 @@
 <img src="https://img.shields.io/badge/Let&apos;s%20Encrypt-003A70.svg?style=flat&logo=letsencrypt&logoColor=white"/>
 <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linode-00A95C.svg?style=flat&logo=Linode&logoColor=white"/>
+<img src="http://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=Prettier&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff"/>
 <img src="https://img.shields.io/badge/-Gitlab-FC6D26?style=flat&logo=gitlab&logoColor=%23ffffff"/>
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=Github&logoColor=%23ffffff"/>
