@@ -3,11 +3,11 @@
 
 <h1 align="center">Tools of the Trade</h1>
 <p align="center">
+<img src="http://img.shields.io/badge/-Python-0073AA?style=flat&logo=python&logoColor=white"/>
+<img src="http://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white"/>
 <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A"/>
 <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3"/>
-<img src="http://img.shields.io/badge/-Python-0073AA?style=flat&logo=python&logoColor=white"/>
-<img src="http://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white"/>
 <img src="http://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=white"/>
 <img src="http://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white"/>
