@@ -11,6 +11,7 @@
 <img src="http://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=white"/>
 <img src="http://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>
 <img src="http://img.shields.io/badge/-MySQL-007599?style=flat&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF.svg?style=flat&logo=phpMyAdmin&logoColor=%2361DAFB"/>
 <img src="http://img.shields.io/badge/-WordPress-0073AA?style=flat&logo=wordpress&logoColor=white"/>
