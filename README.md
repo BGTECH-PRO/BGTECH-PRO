@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/VirtualBox-183A61.svg?style=flat&logo=VirtualBox&logoColor=white"/>
 <img src="http://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=white"/>
-<img src="https://img.shields.io/badge/V%20S%20Codium-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCodium-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"/>
 <img src="http://img.shields.io/badge/-ONLYOFFICE-444444?style=flat&logo=ONLYOFFICE&logoColor=white"/>
 <img src="https://img.shields.io/badge/-GIMP-5C5543?style=flat&logo=GIMP&logoColor=%23ffffff"/>
 <img src="http://img.shields.io/badge/-ArchLinux-1793D1?style=flat&logo=ArchLinux&logoColor=white"/>
