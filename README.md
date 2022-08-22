@@ -34,7 +34,6 @@
 <img src="https://img.shields.io/badge/VirtualBox-183A61.svg?style=flat&logo=VirtualBox&logoColor=white"/>
 <img src="http://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCodium-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCodium-0078D4?style=for-the-flat&logo=visual%20studio%20code&logoColor=white/>
 <img src="http://img.shields.io/badge/-ONLYOFFICE-444444?style=flat&logo=ONLYOFFICE&logoColor=white"/>
 <img src="https://img.shields.io/badge/-GIMP-5C5543?style=flat&logo=GIMP&logoColor=%23ffffff"/>
 <img src="http://img.shields.io/badge/-ArchLinux-1793D1?style=flat&logo=ArchLinux&logoColor=white"/>
